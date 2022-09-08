@@ -1,10 +1,10 @@
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/)
+  [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
 
   # Example
 
   ## Description
-  cool
+  this is an example
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,16 +15,16 @@
   * [Questions](#questions)
   
   ## Installation
-  do it
+  install it
 
   ## Usage
-  it works
+  it is cool
 
   ## License
-  This project is covered under the [GNU General Public License v3.0](https://www.gnu.org/licenses/)
+  This project is covered under the [ISC License](https://opensource.org/licenses/ISC)
 
   ## Contribute
-  help
+  help me
 
   ## Testing
   test it
