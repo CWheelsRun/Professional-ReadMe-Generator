@@ -12,7 +12,6 @@ This is a Node.js application. It takes information via command line input and b
 * [Usage](#usage)
 * [License](#license)
 * [Contribute](#contribute)
-* [Testing](#testing) 
 * [Questions](#questions)
 
 ## Installation
@@ -40,7 +39,7 @@ https://www.youtube.com/watch?v=4tjXAcsa4Zc&ab_channel=Weelz
 
 This project is covered under the [ISC License](https://opensource.org/licenses/ISC)
 
-## Contributing
+## Contribute
 
 If you wish to contribute to this project, follow these steps:
 
