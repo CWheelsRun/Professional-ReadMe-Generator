@@ -31,6 +31,37 @@ function generateMarkdown(data) {
 
   # ${data.title}
 
+  ## Description
+  ${data.about}
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribute](#contribute)
+  * [Testing](#testing) 
+  * [Questions](#questions)
+  
+  ## Installation
+  ${data.install}
+
+  ## Usage
+  ${data.usage}
+
+  ## License
+  ${renderLicenseSection(data.license)}
+
+  ## Contribute
+  ${data.contribute}
+
+  ## Testing
+  ${data.testing}
+
+  ## Questions
+  Created by: [${data.githubUsername}](${data.githubLink})
+  
+  If you have any further questions please feel free to contact me at [${data.email}](${data.email})
+
 `;
 }
 

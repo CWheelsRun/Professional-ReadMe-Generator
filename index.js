@@ -22,7 +22,7 @@ const questions = () => {
         {
             type: 'input',
             name: 'about',
-            message: 'Please enter a description about your project:',
+            message: 'Please enter a description of your project:',
             validate: aboutInput => {
                 if (aboutInput) {
                     return true;
@@ -104,7 +104,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'gitLink',
+            name: 'githubLink',
             message: 'Please enter your GitHub Profile Link:',
             validate: gitLinkInput => {
                 if (gitLinkInput) {
